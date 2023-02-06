@@ -2,7 +2,7 @@
     "auth":  "zef:Air4x",
     "name":  "Chart::EasyGnuplot",
     "authors": [ "Mario Calcagno" ],
-    "version": "0.0.2",
+    "version": "0.1.3",
     "description": "A simple module to create simple plots using Chart::Gnuplot",
     "depends":  [
 	"Chart::Gnuplot"
