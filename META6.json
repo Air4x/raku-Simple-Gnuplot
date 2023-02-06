@@ -1,0 +1,14 @@
+{
+    "auth":  "zef:Air4x",
+    "name":  "Chart::EasyGnuplot",
+    "version": "0.0.1",
+    "depends":  [
+	"Chart::Gnuplot"
+    ],
+    "tags": [
+	"Chart", "Plot"
+    ],
+    "provides":  {
+	"Chart::EasyGnuplot" : "lib/Easy.rakumod"
+    }
+}
