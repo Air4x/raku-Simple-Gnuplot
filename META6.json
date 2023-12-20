@@ -3,6 +3,7 @@
     "name":  "Chart::EasyGnuplot",
     "authors": [ "Mario Calcagno" ],
     "version": "0.1.3",
+    "license": "GPL-3.0"
     "description": "A simple module to create simple plots using Chart::Gnuplot",
     "depends":  [
 	"Chart::Gnuplot"
